@@ -6,3 +6,11 @@ When the lipid envalope is agitated by physical contact with the targeted cell, 
 In case where the virus has M2 channels, these M2 channels are used as a parasitic mechanism in which a virus is able to feed off the attached cell through the channel once attached, while growing and maintaining a semi-permenant bond between virus and host cell.
 
 Holes created from NA protiens firing into the target cell are used by the virus to further embed itself into the cell tissue. Once embedded the virus will continue to fire NA spore protiens into the infected area, producing mutated viral spores and creating inflamation like micro shotgun bursts from the firing of NA proteins. M2 channels are used in an embedded virus is the same manner as a virus which is attached to the surface of a target cell via HA hooks.
+
+Using nano technology simple mechanical defense mechanisms could be used to:
+
+Block HA hook penetration
+
+Avoid contact with the lipid envalope (HA will not fire without lipid envalope contact)
+
+Block attachment of the M2 channel.
