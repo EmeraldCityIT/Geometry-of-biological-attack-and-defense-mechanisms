@@ -3,4 +3,4 @@ As a virus cell approaches a cell, it uses HA protiens as a type of hook or grap
 
 When the lipid envalope is agitated by physical contact with the targeted cell, NA protiens violently fires RNA "spores" into the target cell, which cause damage to tissue and reproduce mutated viral offspring.
 
-In case where virus has M2 channels, these M2 channels are used as a parasitic attachement in which a virus is able to feed off the attached cell, grow and maintain a semi-permenant bond between virus and host cell.
+In case where virus has M2 channels, these M2 channels are used as a parasitic mechanism in which a virus is able to feed off the attached cell through the channel once attached, while growing and maintaining a semi-permenant bond between virus and host cell.
