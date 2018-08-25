@@ -1,0 +1,1 @@
+Bacteriophages are used to launch chemical attacks on viral particles in combination with other zooid defense strategies such as passage blockage and cut-off of sugar and body fat as a food supply for living viral particles.
