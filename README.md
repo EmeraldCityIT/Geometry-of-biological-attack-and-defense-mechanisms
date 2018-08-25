@@ -11,6 +11,6 @@ Using nano technology simple mechanical defense mechanisms could be used to:
 
 Block HA hook penetration
 
-Avoid contact with the lipid envalope (HA will not fire without lipid envalope contact)
+Avoid contact with the lipid envalope (HA, NA & M2 bumping against target cell will not create an NA firing response. NA will not fire without lipid envalope contact)
 
 Block attachment of the M2 channel.
